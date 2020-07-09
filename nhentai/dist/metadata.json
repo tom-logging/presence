@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "tom",
+    "id": "730767772958720000"
+  },
+  "service": "nhentai",
+  "description": {
+    "en": "nhentai is a free hentai manga and doujinshi reader with over 314000 galleries to read and download"
+  },
+  "url": "nhentai.net",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/SuLi8Za.jpg",
+  "thumbnail": "https://i.imgur.com/RNf9c8C.png",
+  "color": "#ff2400",
+  "tags": [
+    "Hentai",
+    "NSFW"
+  ],
+  "category": [
+  "other"
+  ]
+}

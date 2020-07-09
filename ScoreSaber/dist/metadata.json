@@ -1,0 +1,20 @@
+{
+    "author": {
+      "name": "tom",
+      "id": "266024212978728963"
+    },
+    "service": "ScoreSaber",
+    "description": {
+      "en": "ScoreSaber is a website to find players/maps"
+    },
+    "url": "scoresaber.com",
+    "version": "1.0.0",
+    "logo": "https://i.imgur.com/v0RioH7.png",
+    "thumbnail": "https://i.imgur.com/ylpKn0o.png",
+    "color": "#FFFF00",
+    "tags": [
+      "Social",
+      "BeatSaber"
+    ],
+    "category": "other"
+  }

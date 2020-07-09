@@ -1,0 +1,20 @@
+{
+    "author": {
+      "name": "tom",
+      "id": "266024212978728963"
+    },
+    "service": "MyAnimeList",
+    "description": {
+      "en": "MyAnimeList is where all of your manga/anime is at"
+    },
+    "url": "myanimelist.net",
+    "version": "1.0.0",
+    "logo": "https://i.imgur.com/nHNSShi.png",
+    "thumbnail": "https://i.imgur.com/4SR21Zo.png",
+    "color": "#2e51a2",
+    "tags": [
+      "Anime",
+      "Social"
+    ],
+    "category": "anime"
+  }
