@@ -1,2 +1,2 @@
-# Presences-i-ve-made
-Just a bunch of presences i've made
+# Stuff i've made
+nothing special about them, pretty much the same but i thought i'd upload them if anyone would like to use them as a starter !
